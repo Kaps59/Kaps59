@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaps59
+- 👋 Hi, I’m Kaps_59
 - 👀 interested in Software dev, Game dev, 3D Printing and Graphics designing.
 - 🌱 currently a SE Undergrad.
 
