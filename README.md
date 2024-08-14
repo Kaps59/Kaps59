@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaps59
-- 👀 I’m interested in Software, game dev, 3D Printing.
-- 🌱 I’m currently learning Software Engineering.
+- 👀 interested in Software dev, Game dev, 3D Printing and Graphics designing.
+- 🌱 currently a SE Undergrad.
 
 
 <!---
